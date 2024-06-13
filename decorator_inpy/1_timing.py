@@ -7,6 +7,9 @@
 
 # decorator is like e box hai usko ek pipe ke through function pass krwana
 
+# agar aapko decorator bnana hai toh ek function ke andar ek fun bnana hota hai aur uske andar humara function execute ho jata hai
+
+
 import time
 
 def timer(func):
